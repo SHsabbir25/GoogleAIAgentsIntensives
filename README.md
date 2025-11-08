@@ -114,13 +114,12 @@ This repository documents my learning journey through the **Google AI Agents Int
 
 ## Notes
 
-- Each day's folder contains a `notebook_template.ipynb` for hands-on experiments
-- Use `concepts.md` to document key learnings and insights
-- The `Resources/` folder is for additional materials and references
-- The `Notes/` folder is for general course notes and reflections
+- Each day's folder contains a `Notebook template.ipynb` for hands-on experiments
+- Use `Concepts.md` to document key learnings and insights
+- The `Taking Notes/` folder is for general course notes and reflections
 
 ---
 
-**Course Dates:** November 10–14  
-**Last Updated:** November 2024
+**Course Duration :** November 10–14  
+
 
