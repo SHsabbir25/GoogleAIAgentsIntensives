@@ -46,32 +46,45 @@ This repository documents my learning journey through the **Google AI Agents Int
 
 ```
 .
-├── Day1_Agent_Basics/
+📦 Google-AI-Agents-Intensive/
+│
+├── 📘 README.md                     # Overview of the entire repository
+├── 📄 requirements.txt              # Dependencies for notebooks and tools
+│
+├── 🧭 Day_01_Agent_Basics/
+│   ├── README.md                   # Overview and objectives of Day 1
+│   ├── 01_Agent_Basics.ipynb       # Main notebook for Day 1
+│   └── concepts.md                 # Core concepts and notes
+│
+├── ⚙️ Day_02_Tools_Interoperability/
 │   ├── README.md
-│   ├── notebook_template.ipynb
+│   ├── 02_Tools_and_Interoperability.ipynb
 │   └── concepts.md
-├── Day2_Tools_and_Interoperability/
+│
+├── 🧠 Day_03_Context_and_Memory/
 │   ├── README.md
-│   ├── notebook_template.ipynb
+│   ├── 03_Context_and_Memory.ipynb
 │   └── concepts.md
-├── Day3_Context_and_Memory/
+│
+├── 📊 Day_04_Evaluation_and_Quality/
 │   ├── README.md
-│   ├── notebook_template.ipynb
+│   ├── 04_Evaluation_and_Quality.ipynb
 │   └── concepts.md
-├── Day4_Evaluation_and_Quality/
+│
+├── 🚀 Day_05_Capstone_Project/
 │   ├── README.md
-│   ├── notebook_template.ipynb
+│   ├── 05_Capstone_Project.ipynb
 │   └── concepts.md
-├── Day5_Capstone_Project/
-│   ├── README.md
-│   ├── notebook_template.ipynb
-│   └── concepts.md
-├── Resources/
-│   └── (Additional materials, links, and references)
-├── Notes/
-│   └── (General course notes and reflections)
-├── requirements.txt
-└── README.md
+│
+├── 📚 Resources/
+│   ├── datasets/                   # Optional: local datasets for experiments
+│   ├── references.md               # External readings, papers, links
+│   └── tools.md                    # Notes on frameworks, APIs, and utilities
+│
+└── 📝 Notes/
+    ├── general_reflections.md      # Personal learnings and insights
+    └── key_takeaways.md            # Summary of key concepts across all days
+
 ```
 
 ## Daily Learning Goals
@@ -120,6 +133,6 @@ This repository documents my learning journey through the **Google AI Agents Int
 
 ---
 
-**Course Duration :** November 10–14  
+**Course Duration :** November 10–14, 2025
 
 
