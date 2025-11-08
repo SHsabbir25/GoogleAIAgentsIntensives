@@ -42,6 +42,32 @@ This repository documents my learning journey through the **Google AI Agents Int
 
 [📁 Day 5 Folder](./Day5_Capstone_Project/)
 
+🗓️ Course Breakdown
+🔹 Day 1 – Fundamentals of AI Agents
+
+Focus: Core concepts of agentic systems, introduction to agent architecture, and understanding how agents perceive, reason, and act.
+📂 Access Folder →(./Day1_Agent_Basics/)
+
+🔹 Day 2 – Tools & Interoperability
+
+Focus: Connecting agents with external tools and APIs, orchestrating multiple functions, and enabling real-world task execution.
+📂 Access Folder →(./Day2_Tools_and_Interoperability/)
+
+🔹 Day 3 – Context & Memory
+
+Focus: Managing agent context across interactions, building short-term and long-term memory, and ensuring state persistence.
+📂 Access Folder →(./Day3_Context_and_Memory/)
+
+🔹 Day 4 – Evaluation & Quality Assurance
+
+Focus: Evaluating agent performance using metrics, designing feedback loops, and debugging for reliability and safety.
+📂 Access Folder →(./Day4_Evaluation_and_Quality/)
+
+🔹 Day 5 – Capstone Project
+
+Focus: Designing and deploying a complete, production-ready AI agent that integrates tools, context, and evaluation techniques.
+📂 Access Folder →(./Day5_Capstone_Project/)
+
 ## Repository Structure
 
 ```
