@@ -17,7 +17,7 @@ This repository documents my learning journey through the **Google AI Agents Int
 -Beyond short-term learning, this repository reflects a commitment to building reproducible workflows, sharing open learning, and contributing to the growing field of agentic AI systems.
 ## Course Structure
 
-### Day 1: Agent Basics
+### Day 1: Basics of AI Agent
 **Focus:** Introduction to AI agents, foundational concepts, and basic agent architecture.
 
 [📁 Day 1 Folder](./Day1_Agent_Basics/)
